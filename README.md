@@ -34,8 +34,8 @@ Chatbot Khawla is a smart, AI-powered chatbot app crafted with Flutter and power
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/chatpoot_khawla
-   cd chatpoot_khawla
+   git clone https://github.com/lamsiyehkhawla/Chatbot_app.git
+   cd chatbot_app
    ```
 
 2. Add your `.env` file:
